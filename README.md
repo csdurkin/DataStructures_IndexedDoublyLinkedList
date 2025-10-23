@@ -1,4 +1,4 @@
-#Data Structures Indexed Doubly Linked List (IDLList)
+# Data Structures Indexed Doubly Linked List (IDLList)
 
 Implements an Indexed Doubly Linked List (IDLList) in Java: a doubly linked list with O(1) random access via an internal ArrayList index. Includes add/append, get/getHead/getLast, remove/removeLast/removeAt/remove(E), size, and toString, with full index maintenance, bounds checks, and exception-safe operations.
 
